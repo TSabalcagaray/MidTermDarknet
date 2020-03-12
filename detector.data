@@ -1,0 +1,5 @@
+classes=1
+train=strollerData/trainStroller.txt
+valid=strollerData/testStroller.txt
+names=strollerData/stroller.names
+backup=backup/
